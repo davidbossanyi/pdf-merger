@@ -1,7 +1,7 @@
 # PDF Merger
 _A little CLI tool to merge PDF documents_
 
-[![CI](https://github.com/res-ds/ds-rnd-python-template/actions/workflows/ci.yaml/badge.svg)](https://github.com/res-ds/ds-rnd-python-template/actions/workflows/ci.yaml)
+[![CI](https://github.com/davidbossanyi/pdf-merger/actions/workflows/ci.yaml/badge.svg)](https://github.com/davidbossanyi/pdf-merger/actions/workflows/ci.yaml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/downloads/)
 
 ## Usage
